@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.7.34202.233
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Week4Loops", "Week4Loops\Week4Loops.csproj", "{847EB855-25DB-4FA1-9D5D-1CA39C470E9F}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Week4WhileLoop", "Week4WhileLoop\Week4WhileLoop.csproj", "{68161227-E270-419F-80A4-84582B221E6A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{847EB855-25DB-4FA1-9D5D-1CA39C470E9F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{847EB855-25DB-4FA1-9D5D-1CA39C470E9F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{847EB855-25DB-4FA1-9D5D-1CA39C470E9F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{847EB855-25DB-4FA1-9D5D-1CA39C470E9F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{68161227-E270-419F-80A4-84582B221E6A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{68161227-E270-419F-80A4-84582B221E6A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{68161227-E270-419F-80A4-84582B221E6A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{68161227-E270-419F-80A4-84582B221E6A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B5FA2C40-E38B-4388-BE9E-3A17A0F122DA}
+	EndGlobalSection
+EndGlobal
